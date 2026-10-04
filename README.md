@@ -53,6 +53,9 @@ The current prototype focuses on the hardware monitoring and fault-detection con
                          |
                          v
                  Monitoring Dashboard
+
+<img width="1536" height="1024" alt="System Architecture" src="https://github.com/user-attachments/assets/9dd6032e-1cbe-4cf8-ab0a-4aff93878544" />
+
 ```
 
 ## Hardware
